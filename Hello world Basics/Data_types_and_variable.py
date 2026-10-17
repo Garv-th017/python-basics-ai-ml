@@ -35,3 +35,17 @@ student1 = {
 IsPresent = None
 
 # primitve data types are the built in data types that we can use 
+
+### print the values of the different vairables that stored the different data types
+
+print(name)
+print(age)
+print(marks)
+print(isActice)
+
+print(student)
+print(skills[0])
+print(numbers)
+print(student1["name"])
+
+
