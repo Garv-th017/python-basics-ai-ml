@@ -49,3 +49,14 @@ print(numbers)
 print(student1["name"])
 
 
+# how we can check the data type of a vairable is storing and is a built in data type we can use that is our the 
+# python provide the built in data type that is our the - type()
+
+print(type(name))
+print(type(age))
+print(type(marks))
+print(type(isActice))
+print(type(student))
+print(type(skills))
+print(type(numbers))
+print(type(student1))
