@@ -60,3 +60,20 @@ print(type(student))
 print(type(skills))
 print(type(numbers))
 print(type(student1))
+
+# type casting :- 
+# Type casting means converting a value from one data type to another.
+# why we need the type conversion - 
+# suppose we have a example the - input() awlays return the value in string you enter any 
+# below example 
+
+age = input("enter your age: ")
+
+# now check the type of the age is 
+
+print(type(age))  # <class 'str'>
+
+# now i need to perform the mathematical operations so we use the type conversion
+
+age = int(age)
+print("Age Entered by the User is : " , age)
