@@ -77,3 +77,6 @@ print(type(age))  # <class 'str'>
 
 age = int(age)
 print("Age Entered by the User is : " , age)
+
+
+# There are many ways we can type do type onversion... and many types
