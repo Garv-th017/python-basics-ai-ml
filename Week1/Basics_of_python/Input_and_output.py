@@ -25,3 +25,7 @@ stu_name = input("Enter the student name: ")
 print(stu_name)
 
 # input always return the string for specifiv value we have to use the Type casting
+
+# An f-string lets you insert variables directly into a string using {}.
+
+print(f"Hello my name is {name} and my age is {age}")
