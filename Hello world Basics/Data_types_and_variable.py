@@ -15,3 +15,23 @@ student = ('Garv' , 22 , 'KKR')
 # The format of the List is - []
 skills = ["Python", "JavaScript", "React"]
 
+# A set is a collection which is unordered, unchangeable*, and unindexed.
+# The format of the set is { }
+# But the output contains the uniqu value
+
+numbers = {1,2,3,4,5,6,7,8}
+
+# Dictionary 
+# A Dictionary is a collection of the key value pairs that is used to stored the values in the form of the key value pairs 
+
+student1 = {
+    "name": "Garv",
+    "age": 22,
+    "city": "Mohali"
+}
+
+# None - None represent the absence of the values 
+
+IsPresent = None
+
+# primitve data types are the built in data types that we can use 
