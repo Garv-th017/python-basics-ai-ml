@@ -41,3 +41,23 @@ name = 'D' + name[1:]
 
 print("The new name created after the string Immutablity we created new one:" , name); #Dman
 
+# string Indexing - String Indexing means accessing a string Character with the Help of the Index 
+
+# There are Two types of Indexing Has - Positive Indexing and Negative Indexing 
+
+# Postive Indexing Like from ( 0 to Ongoing )
+# Negative Indexing Like from the ( -1 to the Last we have i.e. -10)
+
+# Here Indexing starts from the 0 
+
+# And also the Characters Stores in the Memory they took some bytes 
+
+Student_name = "Roshni"
+print(Student_name[0]); # R
+print(Student_name[1]); # o
+print(Student_name[2]); # s
+print(Student_name[3]); # h
+
+# And Also we can Access from the Negative Also 
+
+print(Student_name[-1]); # i - Basically Negative side 
