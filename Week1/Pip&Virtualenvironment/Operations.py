@@ -27,3 +27,25 @@ print(x//y) #Floor Division - Return The Quotent in the Whole Number
 # In python the Division is the Two We used 
 # / - Division Return the Float Actual
 # // - Division Floor that return the Nearest Value
+
+# Assignment Operators - Assignment Operators are used to Assign Values 
+# Basically they have some Short way Let's Check here
+# Some examples are here 
+
+# = , += , -= , *= and many more 
+
+# A new operator comes that is in the python 3.8 that is the Warlus Operators ':=' 
+
+# The Walrus Operator (:=) in Python allows you to assign a value to a variable and use that variable in the same expression.
+
+# Let's Understand the DIfference between the = and the :=
+
+name = "Garv"
+
+if (len(name) > 0):
+    print(name)
+
+# This is the Oldest way to use the python now in this First i have to Assign the name and then i have to use that but here In the Warlus Operators is not Like that 
+
+if (name := "garv thakral"):
+    print(name)
