@@ -49,3 +49,18 @@ if (len(name) > 0):
 
 if (name := "garv thakral"):
     print(name)
+
+# Ternary Operator is used to Make the Short Form of the IF ELSE 
+
+Age = 18
+
+if(Age > 18):
+    print("You are Elgilable for vote")
+else: 
+    print("You are not Elgilable for the voting")
+
+# We can write this into the Sort Form Like 
+age = int(input("Please Enter your age :"))
+
+message = "Adult" if age >=18 else "Minor"
+print(message)
