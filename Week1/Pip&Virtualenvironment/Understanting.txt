@@ -1,0 +1,10 @@
+- Basically pip is the package installer.
+- To install numpy , fastAPi or something we need the FastAPI
+- Basically Before the Downloading Modules we have to install the Python pip 
+
+- pip Basically 'python -m pip --version'  we can check 
+- Python - it runs the python 
+- '-m' - That is used to tell that to run the module 
+- pip - this is the module that is used to install the modules in the python 
+- install - This is the Install command 
+- FastAPI , numpy - this is the package that we are installing 
