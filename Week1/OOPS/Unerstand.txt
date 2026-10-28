@@ -1,0 +1,10 @@
+what is the oops
+oops is a term that is related to the Object oriented programming . In which we organize our code in the format of classes and the Object
+Instead of writing the code into the format of functions separately . Instead we groups all the functions. into the form of classes
+
+- why we need the OOPs 
+- Basicaly to write the same things or same related many things it's too difficult when the project grows 
+- Instead of writing separately, we created a class and merge this one 
+
+- Class :- Think a class Like the Blueprint that's tell the structure 
+- Object :- Object is like the an instance of the class how's it look like and each object has different data
