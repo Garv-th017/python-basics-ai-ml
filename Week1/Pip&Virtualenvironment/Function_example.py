@@ -10,11 +10,11 @@ def print_hello():
 print_hello()  # we can call the python using the function_name()
 
 
-number1 = int(input("What is the Number 1 Value"))
-number2 = int(input("What is the Number 2 Value"))
+number1 = int(input("What is the Number 1 Value :"))
+number2 = int(input("What is the Number 2 Value :"))
 
 def sum_of_two_val(num1,num2):
     sum = num1 + num2
     return sum
 
-print("Value of the two number is" , sum_of_two_val(number1,number2))
+print("Value of the two number is :" , sum_of_two_val(number1,number2))
