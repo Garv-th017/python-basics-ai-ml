@@ -64,3 +64,9 @@ age = int(input("Please Enter your age :"))
 
 message = "Adult" if age >=18 else "Minor"
 print(message)
+
+# Comparison Operators :- Comparison Operators is used to add to Compare the two values 
+
+# There are different Types of Operators are present
+# == , != , > , < , >= , <= and many more
+
