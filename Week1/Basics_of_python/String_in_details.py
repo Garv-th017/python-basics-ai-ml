@@ -61,3 +61,13 @@ print(Student_name[3]); # h
 # And Also we can Access from the Negative Also 
 
 print(Student_name[-1]); # i - Basically Negative side 
+
+# String Sliing - From the Name we are getting the SLicing - Slicing means extracting the Part of the string 
+
+# And we can Give the Start and end index with the Help of we can access our String Partion 
+
+
+# Basic Indexing is this one String[start : end ]
+
+new_name = "Garv"
+print(new_name[0:1]);
