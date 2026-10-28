@@ -70,3 +70,13 @@ print(message)
 # There are different Types of Operators are present
 # == , != , > , < , >= , <= and many more
 
+# Chain Operations - Comparison operators Allow to Add the Chain Operators 
+# we can use the two comparisons into one 
+
+
+## Next we have te Logical Operators - that is the AND , OR , NOT 
+
+## AND - Basically there it returns the true if both is the true 
+## OR - Basically there it returns the true if one of them is true the condition
+## NOT - Basically it's Negation 
+
